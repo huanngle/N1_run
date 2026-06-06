@@ -1,2 +1,2 @@
 # N1_run
-Training available 13 dof N1 robot to walk.
+Training prebuilt 13 DOF N1 to run.
