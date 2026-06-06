@@ -1,2 +1,2 @@
 # N1_run
-Training 13 dof N1 being able to walk.
+Training available 13 dof N1 robot to walk.
