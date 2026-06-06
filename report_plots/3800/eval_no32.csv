@@ -1,0 +1,2 @@
+﻿condition,contact_ratio,episodes,main_termination_reason,mean_episode_length,mean_episode_length_s,mean_vx,slip_metric,speed_mps,success_rate,success_rate_percent,termination_bad_orientation,termination_bad_orientation_percent,termination_fall,termination_fall_percent,termination_time_out,termination_time_out_percent,termination_undesired_contact,termination_undesired_contact_percent,tracking_error_abs_vx
+push,0.5613140000000000,100,time_out,949.5,18.989999999999998,2.9792790000000000,1.4835149999999999,3.2,0.86,86.0,0.03,3.0,0.11,11.0,0.86,86.0,0.0,0.0,0.2620580000000000
